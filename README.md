@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   0x16. C - Simple Shell
 </h1>
 
